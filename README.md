@@ -13,7 +13,7 @@ It includes:
 
 ## Quickstart
 
-```bash
+```
 # 1) Create env (Python 3.10+ recommended)
 python -m venv .venv
 source .venv/bin/activate  # on Windows: .venv\Scripts\activate
